@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Azaliya Khamitova</string>
+    <string name="title">Game developer</string>
+    <string name="phone">+7(000)0000000</string>
+    <string name="telegram">\@zazaraisovna</string>
+    <string name="email">azaliya@khamitovs.team</string>
+</resources>
